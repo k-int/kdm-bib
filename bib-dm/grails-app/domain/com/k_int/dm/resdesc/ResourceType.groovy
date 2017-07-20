@@ -5,6 +5,9 @@ public class ResourceType {
 
   String code
 
+  // Type
+  //   -- Resolve strategy
+
   // BKM - Books and Monographs
   //          - hash(normalise(title))
   // SER - Series
